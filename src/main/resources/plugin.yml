@@ -1,0 +1,9 @@
+## YAML Template.
+---
+name: SoulSand-XP
+version: alpha-1.2.4
+api-version: 1.13
+description: Store your XP into a soulsand and get it back by breaking it.
+author: Twaia
+
+main: soulsand.SoulSandPlugin
