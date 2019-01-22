@@ -1,2 +1,2 @@
-# MinecraftPlugin-SandXP
+# SoulSandXP
 Store your XP into a soulsand and get it back by destroing it.
